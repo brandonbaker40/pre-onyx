@@ -41,6 +41,8 @@ module Api
         @document.destroy
       end
 
+      # comment
+
       private
         # Use callbacks to share common setup or constraints between actions.
         def set_document
